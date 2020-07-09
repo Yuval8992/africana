@@ -1,0 +1,484 @@
+[
+    {
+        "startLocation": {
+            "description": "Arusha, Tanzania",
+            "type": "Point",
+            "coordinates": [36.685799, -3.392315],
+            "day": 0
+        },
+        "ratingsAverage": 4.8,
+        "ratingsQuantity": 6,
+        "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+        "startDates": [
+            "2021-06-19T09:00:00.000Z",
+            "2021-07-20T09:00:00.000Z",
+            "2021-08-18T09:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2955",
+        "name": "Serengeti Trail",
+        "duration": 8,
+        "maxGroupSize": 10,
+        "difficulty": "medium",
+        "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+        "price": 4020,
+        "summary": "Follow the herds on an exciting overland safari",
+        "description": "Bless the rains of East Africa on an eight-day safari adventure through Tanzania. The famed national parks in the Serengeti, Tarangire and Ngorongoro Crater region are home to an astounding array of animals, from miniature dik-dik antelopes and lions to the noble African elephant. With local guides and all of your needs taken care of, head on a number of game drives in search of the Big Five in the back of specially designed safari vehicles. With stops at a local community and visit the vast Lake Manyara and Lake Eyasi, your curated Lonely Planet Experience is fit for the most curious traveller, eager to explore the fascinating towns and fertile savannahs of Africa’s east.",
+        "imageCover": "tour-2-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2959",
+                "description": "Ngorongoro",
+                "type": "Point",
+                "coordinates": [35.503561, -3.24792],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2958",
+                "description": "Serengeti",
+                "type": "Point",
+                "coordinates": [34.818562, -2.17988],
+                "day": 2
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2957",
+                "description": "Tarangire",
+                "type": "Point",
+                "coordinates": [35.865471, -3.951402],
+                "day": 6
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2956",
+                "description": "Lake Manyara",
+                "type": "Point",
+                "coordinates": [35.82112, -3.635943],
+                "day": 7
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Addis Ababa, Ethiopia",
+            "type": "Point",
+            "coordinates": [38.750692, 8.957724],
+            "day": 0
+        },
+        "ratingsAverage": 5,
+        "ratingsQuantity": 9,
+        "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+        "startDates": [
+            "2021-04-25T09:00:00.000Z",
+            "2021-07-20T09:00:00.000Z",
+            "2021-10-05T09:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2951",
+        "name": "Incredible Ethiopia",
+        "duration": 7,
+        "maxGroupSize": 5,
+        "difficulty": "easy",
+        "guides": [
+            "5c8a21d02f8fb814b56fa189",
+            "5c8a201e2f8fb814b56fa186",
+            "5c8a1f292f8fb814b56fa184"
+        ],
+        "price": 1200,
+        "summary": "Explore Ethiopia, the ‘cradle of humanity’",
+        "description": "Travel to Ethiopia and discover a beautiful country, barely touched by modern society. It’s an incredible combination of history, tradition, culture and nature. From 3 million-year-old fossilised hominid remains in Addis Ababa to the amazing rock-hewn churches, hidden crypts and grottoes in Lalibela, this trip take you deep into human history. The 500-year-old monastery islands of Bahir Dar, the elegant castles of Gondar, the majestic geological formations of the Simien mountains, the giant obelisks that rise out of Axum, and even the rumoured home of the Ark of the Covenant. This seven-day trip travels through the north of the country, taking in views of the Blue Nile and trekking to the peaks of the Simien Mountains (meeting red-chested Gelada baboons). You’ll be sure to taste the country’s famous coffee and delectable cuisine, and meet the genuine and friendly people along the way. This is an adventure like no other.",
+        "imageCover": "tour-1-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2954",
+                "description": "Gondar",
+                "type": "Point",
+                "coordinates": [37.456277, 12.603136],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2953",
+                "description": "Simien Mountain",
+                "type": "Point",
+                "coordinates": [38.446034, 13.486424],
+                "day": 3
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2952",
+                "description": "Aksum",
+                "type": "Point",
+                "coordinates": [38.743158, 14.12521],
+                "day": 5
+            }
+        ]
+    },
+    {
+        "startLocation": {
+            "description": "Sossusvlei, Namibia",
+            "type": "Point",
+            "coordinates": [15.291544, -24.75082],
+            "day": 0
+        },
+        "ratingsAverage": 4.5,
+        "ratingsQuantity": 6,
+        "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+        "startDates": [
+            "2022-01-05T10:00:00.000Z",
+            "2022-02-12T10:00:00.000Z",
+            "2023-01-06T10:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c295a",
+        "name": "Namibia Discovery",
+        "duration": 4,
+        "maxGroupSize": 10,
+        "difficulty": "difficult",
+        "guides": [
+            "5c8a21d02f8fb814b56fa189",
+            "5c8a23412f8fb814b56fa18c",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "price": 1600,
+        "summary": "Travel to Namibia and discover one of the most sparsely populated countries on earth",
+        "description": "Crossing the border from South Africa, encounter Namibia's treacherously beautiful coastline, its soaring sand dunes, incredible moonscapes and savanna grasslands teeming with wildlife. Namibia is a country of contrasts and a paradise for wilderness lovers. See the best of this spectacular region by canoeing down rivers, scaling sand dunes, walking through the desert, savouring local dishes and relaxing in quaint towns and cities. Travel from Cape Town to Windhoek and get ready for an unforgettable adventure.",
+        "imageCover": "tour-3-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c295c",
+                "description": "Damaraland",
+                "type": "Point",
+                "coordinates": [14.609518, -22.765839],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c295b",
+                "description": "Ethosha",
+                "type": "Point",
+                "coordinates": [16.112505, -18.894881],
+                "day": 4
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Khartoum, Sudan",
+            "type": "Point",
+            "coordinates": [32.53141, 15.458488],
+            "day": 0
+        },
+        "ratingsAverage": 4.7,
+        "ratingsQuantity": 7,
+        "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+        "startDates": [
+            "2021-08-05T09:00:00.000Z",
+            "2022-03-20T10:00:00.000Z",
+            "2022-08-12T09:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2961",
+        "name": "Northern Sudan Expedition",
+        "duration": 8,
+        "maxGroupSize": 15,
+        "difficulty": "medium",
+        "guides": [
+            "5c8a21f22f8fb814b56fa18a",
+            "5c8a23412f8fb814b56fa18c",
+            "5c8a201e2f8fb814b56fa186"
+        ],
+        "price": 1950,
+        "summary": "Discover ancient history, old gods and desert nomads",
+        "description": "‘You’re going where?!’ Expect to hear a lot of this – accompanied by a slack jaw and wide eyes – when you tell people you’re heading to Sudan. Few people know that among vast stretches of sand dunes, Sudan holds some of the world’s most incredible archaeological sites, ancient ruins and resilient cultures. That tucked under palm trees in oases you can meet people who live in Nubian houses painted with colourful murals, who speak unique languages and practice their own kind of Islam. On this truly Intrepid tour, you’ll discover the remnants of great empires, learn powerful recent history in museums and from the locals you travel with, explore ancient cities and necropolises, and encounter modern Sudan in souks, chai houses and nomadic settlements along the way.",
+        "imageCover": "tour-5-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2965",
+                "description": "Dongola",
+                "type": "Point",
+                "coordinates": [30.456962, 19.171163],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2964",
+                "description": "Soleb",
+                "type": "Point",
+                "coordinates": [30.33131, 20.435105],
+                "day": 4
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2963",
+                "description": "Abu Hamad",
+                "type": "Point",
+                "coordinates": [33.314066, 19.534319],
+                "day": 5
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2962",
+                "description": "Meroe",
+                "type": "Point",
+                "coordinates": [33.76461, 16.921249],
+                "day": 7
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Mahé, Seychelles",
+            "type": "Point",
+            "coordinates": [55.475508, -4.680553],
+            "day": 0
+        },
+        "ratingsAverage": 4.6,
+        "ratingsQuantity": 5,
+        "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+        "startDates": [
+            "2021-03-11T10:00:00.000Z",
+            "2021-05-02T09:00:00.000Z",
+            "2021-06-09T09:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c295d",
+        "name": "Seychelles tours & travel",
+        "duration": 7,
+        "maxGroupSize": 20,
+        "difficulty": "easy",
+        "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+        "price": 2497,
+        "summary": "Imagine paradise and you’ll probably envision a place that looks a lot like the Seychelles.",
+        "description": "Pristine white sands lapped with dazzling turquoise waters. Swaying palms and jungle-clad hills. This remote archipelago scattered off the coast of Africa truly is a tropical paradise. Better yet, it’s not on many people’s travel lists – yet. One this seven-day adventure cruise you’ll get to explore lush mangrove forests filled with unique and wonderful wildlife, like 125-year-old giant tortoises and Seychelle warblers. Visit the expansive Fond Ferdinand Nature Reserve and learn about its unusual Coco de Mer palm trees. Go birdwatching with a guide on unspoiled Aride. Visit Anse Lazio and Anse Source d'Argent, two beaches consistently rated among the most beautiful in the world. And spend plenty of time swimming, snorkelling and soaking in the stunning views. All this from your comfy home on the sea, the Pegasus. It’s everything you could want from an exotic Seychelles escape.",
+        "imageCover": "tour-4-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2960",
+                "description": "Silhouette Island",
+                "type": "Point",
+                "coordinates": [55.243646, -4.495301],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c295f",
+                "description": "Praslin",
+                "type": "Point",
+                "coordinates": [55.749511, -4.336185],
+                "day": 3
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c295e",
+                "description": "St Anne Island",
+                "type": "Point",
+                "coordinates": [55.503981, -4.60561],
+                "day": 5
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Johannesburg, SA",
+            "type": "Point",
+            "coordinates": [28.054458, -26.189684],
+            "day": 0
+        },
+        "ratingsAverage": 3.9,
+        "ratingsQuantity": 7,
+        "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+        "startDates": [
+            "2021-07-19T09:00:00.000Z",
+            "2021-09-06T09:00:00.000Z",
+            "2022-03-18T10:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2966",
+        "name": "Explore Southern Africa",
+        "duration": 14,
+        "maxGroupSize": 10,
+        "difficulty": "difficult",
+        "guides": [
+            "5c8a21f22f8fb814b56fa18a",
+            "5c8a1f292f8fb814b56fa184",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "price": 3650,
+        "summary": "Cruise waterways and cross savannahs on a wild camping adventure",
+        "description": "Discover southern Africa's waterways and national parks – plus the wildlife that call them home – on this 14-day Lonely Planet Experience, powered by Intrepid. Canoe down the lush waterways of the Okavango Delta, watch hippos wallowing along the shores of the Chobe River, safari in the vast parks of Hwange, Kruger and Matobo and sleep under the stars in campsites and village homestays. Join Intrepid and Lonely Planet on an adventure through southern Africa’s most beautiful landscapes in search of elephants, lions, rhinos, warthogs and leopards.",
+        "imageCover": "tour-6-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c296b",
+                "description": "Maun",
+                "type": "Point",
+                "coordinates": [23.423505, -20.029377],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c296a",
+                "description": "Nata",
+                "type": "Point",
+                "coordinates": [26.182709, -20.227134],
+                "day": 4
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2969",
+                "description": " Victoria Falls",
+                "type": "Point",
+                "coordinates": [25.849975, -17.904225],
+                "day": 6
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2968",
+                "description": "Makushu Village",
+                "type": "Point",
+                "coordinates": [30.005427, -22.822004],
+                "day": 7
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2967",
+                "description": "Kruger National Park",
+                "type": "Point",
+                "coordinates": [31.466311, -24.026065],
+                "day": 10
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Nairobi, Kenya",
+            "type": "Point",
+            "coordinates": [36.802435, -1.312816],
+            "day": 0
+        },
+        "ratingsAverage": 4.8,
+        "ratingsQuantity": 6,
+        "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+        "startDates": [
+            "2021-03-23T10:00:00.000Z",
+            "2021-10-25T09:00:00.000Z",
+            "2022-01-30T10:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2970",
+        "name": "Kenya Wildlife Safari",
+        "duration": 9,
+        "maxGroupSize": 10,
+        "difficulty": "medium",
+        "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+        "price": 3003,
+        "summary": "Spot the Big Five and spend a night with the Maasai",
+        "description": "Immerse yourself in the animal kingdom on this nine-day Lonely Planet Experience. Veer off the beaten track to seek out elephants, hippos, leopards and lions against the impressive backdrop of the Great Rift Valley and Lake Naivasha. Then, staying in the world-famous Masai Mara, deepen your understanding of Kenyan culture by experiencing tribal life in Loita Hills as you’re welcomed into the homes of the Maasai warriors and their proud village community. Join Lonely Planet and Intrepid on this perspective-shifting journey of unforgettable moments and memorable wildlife encounters.",
+        "imageCover": "tour-8-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2973",
+                "description": "Lake Nakuru National Park",
+                "type": "Point",
+                "coordinates": [36.099915, -0.347795],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2972",
+                "description": "Lake Naivasha",
+                "type": "Point",
+                "coordinates": [36.364196, -0.794119],
+                "day": 3
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2971",
+                "description": "Masai Mara Kenya",
+                "type": "Point",
+                "coordinates": [36.869126, -1.284233],
+                "day": 6
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Alexandria, Egypt",
+            "type": "Point",
+            "coordinates": [29.917729, 31.193821],
+            "day": 0
+        },
+        "ratingsAverage": 4.7,
+        "ratingsQuantity": 7,
+        "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+        "startDates": [
+            "2021-12-16T10:00:00.000Z",
+            "2022-01-16T10:00:00.000Z",
+            "2022-12-12T10:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c2974",
+        "name": "Egypt Experience",
+        "duration": 5,
+        "maxGroupSize": 12,
+        "difficulty": "easy",
+        "guides": [
+            "5c8a21f22f8fb814b56fa18a",
+            "5c8a201e2f8fb814b56fa186",
+            "5c8a23412f8fb814b56fa18c"
+        ],
+        "price": 1897,
+        "summary": "Follow the Nile in style, for a while",
+        "description": "Pharaohs, feluccas, temples and tombs. Pyramids, bazaars, mummies and catacombs. Egypt has myriad possibilities to marvel and discover, and on a 5-day cultural expedition to its highlights, you’ll understand how time has stood still and why you’ll need a history lesson at every turn. Lose yourself in the colour and chaos of Cairo’s Khan al-Khalili Bazaar, stand at the feet of Abu Simbel’s monumental temples, set sail down the iconic Nile and feel grand in the Valley of the Kings. With all your comforts cared for and questions answered by knowledgeable local leaders, Egypt will serve up all the historic, symbolic and pharaonic goods.",
+        "imageCover": "tour-9-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c2975",
+                "description": "Aswan",
+                "type": "Point",
+                "coordinates": [32.89803, 24.070413],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c2979",
+                "description": "Luxor",
+                "type": "Point",
+                "coordinates": [32.638954, 25.684882],
+                "day": 3
+            }
+        ]
+    },
+
+    {
+        "startLocation": {
+            "description": "Casablanca, Morocco",
+            "type": "Point",
+            "coordinates": [-7.57266, 33.603295],
+            "day": 0
+        },
+        "ratingsAverage": 4.4,
+        "ratingsQuantity": 7,
+        "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+        "startDates": [
+            "2021-02-12T10:00:00.000Z",
+            "2021-04-14T09:00:00.000Z",
+            "2021-09-01T09:00:00.000Z"
+        ],
+        "_id": "5c88fa8cf4afda39709c296c",
+        "name": "Best of Morocco",
+        "duration": 7,
+        "maxGroupSize": 8,
+        "difficulty": "easy",
+        "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+        "price": 2456,
+        "summary": "Discover the best of Morocco on an adventure to awaken the senses",
+        "description": "Travel to Morocco and visit the best of the country's sights on this 7-day all-encompassing adventure from Casablanca to Marrakech. From the Atlas Mountains to seaside Essaouira, the Saharan deserts to the palmeries of Todra Valley, and from the medieval old town of Fes to the spice markets of Marrakech, the most spectacular of Morocco await. Observe the vibrant contrasts between old and new architecture, artwork, and cuisine. Learn about fallen cities and cross paths with nomadic tribes. The majesty of Morocco is a feast for the senses and is waiting to be explored.",
+        "imageCover": "tour-7-cover.jpg",
+        "locations": [
+            {
+                "_id": "5c88fa8cf4afda39709c296f",
+                "description": "Rabat/Meknes",
+                "type": "Point",
+                "coordinates": [-6.852914, 33.978736],
+                "day": 1
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c296e",
+                "description": "Todra Gorge",
+                "type": "Point",
+                "coordinates": [-5.526952, 31.521779],
+                "day": 3
+            },
+            {
+                "_id": "5c88fa8cf4afda39709c296d",
+                "description": "Marrakech",
+                "type": "Point",
+                "coordinates": [-7.976683, 31.618752],
+                "day": 5
+            }
+        ]
+    }
+]
