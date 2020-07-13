@@ -1248,6 +1248,14 @@ body {
     margin-bottom: 2.5rem;
 }
 
+.forgot-password {
+    display: block;
+    color: #000;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #777;
+}
+
 .form__label {
     display: block;
     font-size: 1.6rem;

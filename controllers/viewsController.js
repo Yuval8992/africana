@@ -49,9 +49,28 @@ exports.getLoginForm = (req, res) => {
     });
 };
 
+exports.getSignupForm = (req, res) => {
+    res.status(200).render('signup', {
+        title: 'Sign up'
+    });
+};
+
 exports.getAccount = (req, res) => {
     res.status(200).render('account', {
         title: 'Your account'
+    });
+};
+
+exports.getResetPasswordForm = (req, res) => {
+    res.status(200).render('resetPassword', {
+        title: 'Reset password',
+        token: req.params.token
+    });
+};
+
+exports.getForgotPasswordForm = (req, res) => {
+    res.status(200).render('forgotPassword', {
+        title: 'Forgot password'
     });
 };
 
