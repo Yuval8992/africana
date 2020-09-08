@@ -1,14 +1,14 @@
 doctype html
-html(prefix="og: http://ogp.me/ns#")
+html
   head
     block head
       meta(charset='UTF-8')
       meta(name='viewport' content='width=device-width, initial-scale=1.0')
 
-      meta(property='og:title' content='title')
-      meta(property='og:image' content='../public/img/logo-green-round.png')
-      meta(property='og:description' content='Africana tours')
-      meta(property='og:url' content='https://africana-app.herokuapp.com/?2')
+      meta(prefix="og: http://ogp.me/ns#" property='og:title' content='title2')
+      meta(prefix="og: http://ogp.me/ns#" property='og:image' content='../public/img/logo-green-round.png')
+      meta(prefix="og: http://ogp.me/ns#" property='og:description' content='Africana--tours')
+      meta(prefix="og: http://ogp.me/ns#" property='og:url' content='https://africana-app.herokuapp.com')
 
       link(rel='stylesheet' href='/css/style.css')
       link(rel='shortcut icon' type='image/png' href='/img/favicon.png')
